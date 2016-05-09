@@ -1,0 +1,15 @@
+{
+  "name": "vanillanode",
+  "version": "1.0.0",
+  "description": "lecture code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kris szafranski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
